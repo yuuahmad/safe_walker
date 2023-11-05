@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044951203138",
+    "firebase_url": "https://safe-walker-01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "safe-walker-01",
+    "storage_bucket": "safe-walker-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044951203138:android:8e46d7331c937a04971cdb",
+        "android_client_info": {
+          "package_name": "com.example.safe_walker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044951203138-oev0tbbs6bo7aqgmqdaso6q2sqvjpeq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHwZzUGwmyLOokvax3rii6aUrip6HqXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044951203138-oev0tbbs6bo7aqgmqdaso6q2sqvjpeq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
